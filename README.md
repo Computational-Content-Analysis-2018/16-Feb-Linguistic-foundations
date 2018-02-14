@@ -1,0 +1,2 @@
+# Comments on: Linguistic foundations
+[Manning and Schütze.  1999.  Foundations of Statistical Natural Language Processing.  MIT Press: Chapter 3 (“Linguistic foundations”): 81-113.](('https://canvas.uchicago.edu/courses/13021/files/1170207/download?wrap=1',))
